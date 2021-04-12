@@ -2,23 +2,24 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# COVID-19 LockDown parameters
+# COVID-19 LockDown possibility
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! Building AI course project
+This project's goal is to provide a tool, that would predict COVID-19 LockDown. AI-based tool to help people knowing will LockDown put in place and when. Building AI course project
 
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+People are confused with a current panemic situation and place measures, don't know when everything will be closed or opened.
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* when LockDown will be placed
+* how long it will last
+* when will all be opened again
 
 
 ## How is it used?
